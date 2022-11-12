@@ -1,14 +1,12 @@
 
 <h1 aline="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+%3C3)](https://git.io/typing-svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+%3C3"/>
  </a>
 </h1>
 <div align = "center">
  <p align="center">
-    <a href="https://blacky-dev.me/">
         <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
-    </a>
 <p align="centre"> 
 ## 🔖 My Statistics
 &nbsp;
