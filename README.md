@@ -1,7 +1,7 @@
 
 <h1 aline="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+%3C3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+❣️"/>
  </a>
 </h1>
 <div align = "center">
@@ -18,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fubuki-World0510&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=F7F7F7&hide_border=true/" />
     </a>
     <a href="https://github.com/Fubuki-World0510">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Fubuki-World0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Fubuki-World0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF"/>
     </a>
    <a href="https://github.com/Fubuki-World0510"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fubuki-World0510&bg_color=0D1117&color=ffffff&line=F7F7F7&point=ffffff&area=true&hide_border=true" />
     </a>
