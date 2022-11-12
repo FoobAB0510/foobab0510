@@ -1,10 +1,15 @@
 
 <h1 aline="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Shirakami+Fubuki+love+you;Hi+my+name+is+Hai+Nam+and+i+like+hololive+vtuber;CTRL+%2B+C+----+CTRL+%2B+V"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+%3C3)](https://git.io/typing-svg"/>
  </a>
 </h1>
 <div align = "center">
+ <p align="center">
+    <a href="https://blacky-dev.me/">
+        <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
+    </a>
+<p align="centre"> 
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
@@ -29,7 +34,7 @@
 ![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)](https://dev.discordprofiles.me/openspotify/491577179495333903?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)
 </div>
 
 
