@@ -19,7 +19,8 @@
     </a>
    <a href="https://github.com/Fubuki-World0510"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fubuki-World0510&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
     </a>
-    <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lGK1mI6TxMHMH7BV3Ds0X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq">
+     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lGK1mI6TxMHMH7BV3Ds0X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </a>
 </p>
 
