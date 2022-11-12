@@ -21,8 +21,8 @@
     </a>
     <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq">
     </a>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lGK1mI6TxMHMH7BV3Ds0X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
+       <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lGK1mI6TxMHMH7BV3Ds0X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![](https://komarev.com/ghpvc/?username=Fubuki-World0510&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/491577179495333903?style=flat-square)
