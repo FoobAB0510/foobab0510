@@ -25,11 +25,11 @@
     <a href="https://github.com/Fubuki-World0510">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Fubuki-World0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF"/>
  </a>
+ <a href="https://www.facebook.com/HaiFubu1234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
     <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq">
      <img src="https://cdn.discordapp.com/attachments/881440354333786112/1041027378371100752/image.png"/>
     </a>
 </p>
-
 ![](https://komarev.com/ghpvc/?username=Fubuki-World0510&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/491577179495333903?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
