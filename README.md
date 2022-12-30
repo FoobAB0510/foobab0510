@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+my+name+is+Hai+Nam+;CTRL+%2B+C+----+CTRL+%2B+V;Shirakami+Fubuki+Love+You+❣️"/>
  </a>
 </h1>
-<div align = "center">
- <p align="center">
-        <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
-<p align="centre"> 
+<div align = "center"> 
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
@@ -35,5 +32,8 @@
 [![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)
 </div>
 
+ <p align="center">Thanks for reading
+        <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
+<p align="centre">
 
 ------------------------------------------  
