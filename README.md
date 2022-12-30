@@ -36,12 +36,6 @@
      <img src="https://cdn.discordapp.com/attachments/881440354333786112/1041027378371100752/image.png"/>
     </a>
 </p>
-![](https://komarev.com/ghpvc/?username=Fubuki-World0510&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/491577179495333903?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)
 </div>
 
  <p align="center">
