@@ -25,7 +25,9 @@
     <a href="https://github.com/Fubuki-World0510">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Fubuki-World0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF"/>
  </a>
- <a href="https://www.facebook.com/HaiFubu1234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
+ <a href="https://www.facebook.com/HaiFubu1234">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+ </a>
     <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq">
      <img src="https://cdn.discordapp.com/attachments/881440354333786112/1041027378371100752/image.png"/>
     </a>
@@ -35,10 +37,10 @@
 ![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)
+![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)
 </div>
 
- <p align="center">Thanks for reading
+ <p align="center">
         <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
 <p align="centre">
 
