@@ -31,6 +31,7 @@
  <a href="https://www.facebook.com/HaiFubu1234">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
  </a>
+ <a><img src="https://img.shields.io/badge/Java%20Script-grey?style=for-the-badge&logo=javascript"></a>
 
    <a href="https://open.spotify.com/user/31hlisifx4gblbhr6se6nl3bt6jq">
     <img src="https://cdn.discordapp.com/attachments/881440354333786112/1041027378371100752/image.png"/>
