@@ -37,10 +37,6 @@
 </p>
 </div>
 
- <p align="center">
-        <img src="https://cdn.discordapp.com/attachments/881440354333786112/1038679624122642442/minato-aqua-vtuber.gif" />
-<p align="centre">
-
 ------------------------------------------  
 ```js
 const Skill = require("Self-Skill")
