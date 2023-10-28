@@ -60,7 +60,7 @@ module.exports = {
             nam.Waifu("❣ Shirakami Fubuki - Hololive Vtuber")
 
             skill.list(
-                { program_language: "JavaScript (Next/Node) / TypeScript / CSS / C#", fullstack: false }, 
+                { program_language: "JavaScript (Next/Node) / TypeScript / CSS / C# (.NET Framework)", fullstack: false }, 
                 { stack: "Skid source / StackOverFlow" }, 
                 { Insider_User: "Best Windows user, 7 years experience with Windows Microsoft" }, 
                 { Know_know: "Ubuntu LTS user" })
