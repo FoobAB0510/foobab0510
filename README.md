@@ -8,7 +8,7 @@
  <details><summary>About me</summary>
   <p>
    <br>- A developer from Viet Nam</br>
-   <br>- Studying at FPT Polytechnic</br>
+   <br>- Studying at FPT</br>
    <br>- My age is a secret</br>
    <br>- I am a Anime Otaku</br>
   </p>
