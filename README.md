@@ -7,7 +7,7 @@
 <div align = "center"> 
  <details><summary>About me</summary>
   <p>
-   <br>- Your mom is so fat, LOL</br>
+   <br>- Nothing</br>
   </p>
   </details>
 <h2 align="center">🔖 My Statistics</h2>
