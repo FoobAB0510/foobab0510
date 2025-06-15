@@ -15,7 +15,7 @@
 <p align="center">
     
    <a href="https://github.com/Fubuki-World0510">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Fubuki-World0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=FoobAB0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF"/>
  </a>
  
  
