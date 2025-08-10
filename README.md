@@ -20,7 +20,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 
 - 💻 **Backend Web Developer** with 3+ years of TypeScript experience
 - ☕ **Java Application Developer** (Spring Boot and Servlet) with 2+ years experience
-- 🔐 **Mobile Security Engineer** at [Securemetric](https://securemetric.com)
+- 🔐 **Mobile Security Engineer** at [Securemetric](https://securemetric.com) (I have a J*b btw)
 - 📚 Currently diving deep into **Digital Cryptography** and **Rust**
 - 🤖 Building **Sukon Discord Bot** (Beta) - [Check it out!](https://sukon.namab.io.vn)
 
