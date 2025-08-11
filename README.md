@@ -69,7 +69,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 
 ## 📊 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FoobAB0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF)
+![GitHub Streak | If you see this text, seems like Url github-readme-streak-stats.herokuapp.com have an issue or down](https://github-readme-streak-stats.herokuapp.com?user=FoobAB0510&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=F7F7F7&ring=F7F7F7&stroke=FFFFFFFF)
 
 <img src="https://github-readme-stats.vercel.app/api?username=FoobAB0510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoobAB0510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%">
