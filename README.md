@@ -83,6 +83,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 - 🔗 [Try it out here!](https://sukon.namab.io.vn)
 - 💡 Built with love and lots of TypeScript magic
 
+> and some hidden project
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/is_realfox)
