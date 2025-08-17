@@ -27,7 +27,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 🎭 **Fun facts about me:**
 
 - 📷 Love street photography during my walks
-- 🐱 Animal lover: cats, dogs, and horses!
+- 🐱 Animal lover: cat, dog, fox, and horse!
 - 💙 **Shirakami Fubuki** lover !!
 
 ## 🛠️ Tech Stack & Tools
