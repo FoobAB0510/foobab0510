@@ -6,8 +6,6 @@
   <img alt="FoobAB" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Backend+Web+Developer+%7C+Java+Application+Developer;Mobile+Security+Engineer+%40+Securemetric;Learning+Cryptography+%26+Rust;Photography+Enthusiast+%7C+Shirakami+Fubuki+Lover+💙" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
 </div>
 
 ## 🦊 About Me
