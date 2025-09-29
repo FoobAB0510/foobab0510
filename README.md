@@ -12,7 +12,7 @@
 
 ## 🦊 About Me
 
-> _"No wife, today only friends!"_ - Shirakami Fubuki
+> _"No friend, today only wife!"_ - Shirakami Fubuki
 
 Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting elegant backend solutions and capturing beautiful moments through photography! 📸
 
