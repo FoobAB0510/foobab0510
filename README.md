@@ -22,7 +22,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 - ☕ **Java Application Developer** (Spring Boot and Servlet) with 2+ years experience
 - 🔐 **Mobile Security Engineer** at [Securemetric](https://securemetric.com) (I have a J*b btw)
 - 📚 Currently diving deep into **Digital Cryptography** and **Rust**
-- 🤖 Building **Sukon Discord Bot** (Beta) - [Check it out!](https://sukon.namab.io.vn)
+- 🤖 Building **Sukon Discord Bot** (Beta) - [Check it out!](https://foob.dev/kon)
 
 🎭 **Fun facts about me:**
 
@@ -80,7 +80,7 @@ Hey there! I'm **Nam** aka **FoobAB**, a passionate developer who loves crafting
 
 🤖 **Sukon Discord Bot** - A feature-rich Discord bot currently in Beta phase
 
-- 🔗 [Try it out here!](https://sukon.namab.io.vn)
+- 🔗 [Try it out here!](https://foob.dev/kon)
 - 💡 Built with love and lots of TypeScript magic
 
 > and some hidden project
